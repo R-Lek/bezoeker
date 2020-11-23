@@ -45,11 +45,12 @@ export default {
 
 body {
     font-family: 'Palanquin';
+    margin: 0;
 }
 
 .bb-app-bg {
     position: absolute;
-    top: 178px;
+    top: 165px;
     width: 100%;
     background-image: linear-gradient(to bottom left, #3982FF, #5CD2FF);
     border-top-left-radius: 53px;
